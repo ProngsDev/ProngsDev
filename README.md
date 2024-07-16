@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Prongs0920
+- 👀 I’m interested in React, Android
+- 🌱 I’m currently learning React, Next
