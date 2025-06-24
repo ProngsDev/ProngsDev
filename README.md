@@ -26,16 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="60" alt="Nuxt.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" alt="Tailwind CSS" />
+  <img src="https://nuxt.com/assets/design-kit/logo-green-black.svg" width="160" alt="Nuxt.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" alt="Tailwind CSS" />
 </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="60" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60" alt="Django" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="160" alt="FastAPI" />
 </p>
 
 <p align="center">
@@ -46,9 +46,9 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" alt="Solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="60" alt="Ethereum" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" alt="Rust" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="60" alt="Hugging Face" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="60" alt="Ethereum" />
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="60" alt="Rust" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="60" alt="Hugging Face" />
 </p>
 
 ---
@@ -73,7 +73,6 @@
 ## 📫 Connect With Me
 
 - 💼 [GitHub](https://github.com/ProngsDev)  
-- 🐦 [Twitter](https://twitter.com/YOUR_TWITTER) *(optional)*  
 - 💡 Open to collaboration and exciting new opportunities!  
 
 ---
