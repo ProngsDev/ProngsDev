@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/ProngsDev"><img src="https://img.shields.io/github/followers/ProngsDev?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID"><img src="https://img.shields.io/badge/Upwork-Top%20Freelancer-success?logo=Upwork" alt="Upwork"></a>
   <img src="https://komarev.com/ghpvc/?username=ProngsDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -21,30 +20,36 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js) 
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="60" alt="Nuxt.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" alt="Tailwind CSS" />
+</p>
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="60" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" alt="FastAPI" />
+</p>
 
-**Blockchain & AI:**  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum) 
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) 
-![AI/ML](https://img.shields.io/badge/-Hugging%20Face-FCC624?style=flat&logo=hugging-face) 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" alt="Firebase" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" alt="Solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="60" alt="Ethereum" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" alt="Rust" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="60" alt="Hugging Face" />
+</p>
 
 ---
 
@@ -53,7 +58,6 @@
 - Building **AI-powered web apps** with React & FastAPI  
 - Developing **smart contracts** and exploring Web3 use-cases  
 - Creating **AI image generators** and chatbots  
-- Growing as a trusted **Upwork freelancer**  
 - Refining clean, scalable, production-ready code  
 
 ---
@@ -68,10 +72,9 @@
 
 ## 📫 Connect With Me
 
-- 🌐 [Upwork Profile](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)  
 - 💼 [GitHub](https://github.com/ProngsDev)  
 - 🐦 [Twitter](https://twitter.com/YOUR_TWITTER) *(optional)*  
-- 💡 Open to collaboration, freelance work, and new opportunities!  
+- 💡 Open to collaboration and exciting new opportunities!  
 
 ---
 
