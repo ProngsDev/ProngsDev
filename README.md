@@ -78,9 +78,9 @@ const prongs = {
 ### ⛓️ Blockchain & Web3
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" title="Ethereum" alt="Ethereum" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" title="Ethereum" alt="Ethereum" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="80" height="80"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" title="Web3.js" alt="Web3.js" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/4.x/assets/logo/web3js.svg" title="Web3.js" alt="Web3.js" width="80" height="80"/>
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -101,9 +101,7 @@ const prongs = {
 
 </div>
 
----
-
-## � Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -195,31 +193,11 @@ graph LR
 
 ---
 
-## � GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProngsDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProngsDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProngsDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProngsDev&theme=tokyonight" alt="Profile Summary" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ProngsDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-### � Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProngsDev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
 
-### � Let's Build Something Amazing Together!
+### 💬 Let's Build Something Amazing Together!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProngsDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prongsdev)
@@ -227,7 +205,7 @@ graph LR
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@prongsdev.com)
 
 ### 🤝 Open to:
-- � **Freelance Projects** - Full-stack development & blockchain solutions
+- 💼 **Freelance Projects** - Full-stack development & blockchain solutions
 - 🚀 **Collaborations** - Open source contributions & innovative projects
 - 💡 **Mentoring** - Sharing knowledge with aspiring developers
 - 🌟 **Opportunities** - Full-time positions in cutting-edge companies
